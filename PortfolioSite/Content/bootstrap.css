@@ -74,6 +74,12 @@ mark {
 small {
   font-size: 80%;
 }
+
+.li-border-creation{
+    padding-bottom: 10px;
+    border-bottom: 2px solid #6c5959;
+}
+
 sub,
 sup {
   font-size: 75%;
@@ -6831,4 +6837,5 @@ button.close {
     display: none !important;
   }
 }
+
 /*# sourceMappingURL=bootstrap.css.map */

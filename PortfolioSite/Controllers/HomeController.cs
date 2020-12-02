@@ -20,7 +20,7 @@ namespace PortfolioSite.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult FunFacts()
         {
             ViewBag.Message = "Your contact page.";
 
