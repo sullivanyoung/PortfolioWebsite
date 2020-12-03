@@ -131,6 +131,14 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Images\Daily Notes.txt" />
+    <Content Include="Content\Images\family.jpg" />
+    <Content Include="Content\Images\goochland.jpg" />
+    <Content Include="Content\Images\ra.jpg" />
+    <Content Include="Content\Images\soccer.jpg" />
+    <Content Include="Content\Images\spiderman.jpg" />
+    <Content Include="Content\Images\uncw.jpg" />
+    <Content Include="Content\Images\vcu.jpg" />
     <Content Include="Content\Images\weather.jpg" />
     <Content Include="Content\Images\hangman.jpg" />
     <Content Include="Content\Images\bank.jpg" />
