@@ -134,7 +134,9 @@
     <Content Include="Content\Images\Daily Notes.txt" />
     <Content Include="Content\Images\family.jpg" />
     <Content Include="Content\Images\goochland.jpg" />
+    <Content Include="Content\Images\profilepic.jpg" />
     <Content Include="Content\Images\ra.jpg" />
+    <Content Include="Content\Images\rocketleague.jpg" />
     <Content Include="Content\Images\soccer.jpg" />
     <Content Include="Content\Images\spiderman.jpg" />
     <Content Include="Content\Images\uncw.jpg" />
@@ -146,7 +148,6 @@
     <Content Include="Content\Images\rubikscube.jpg" />
     <Content Include="Content\Images\nhrmc.png" />
     <Content Include="Content\Images\carroll.png" />
-    <Content Include="Content\Images\rocketleague.png" />
     <Content Include="Content\Images\uncw.png" />
     <Content Include="Content\Images\tahzoo.png" />
     <Content Include="Content\Images\tig.png" />
